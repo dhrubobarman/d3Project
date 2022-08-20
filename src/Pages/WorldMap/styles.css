@@ -1,0 +1,20 @@
+.mark path {
+  stroke-linejoin: round;
+  stroke-width: 1px;
+  stroke-linecap: round;
+}
+.mark .lands {
+  fill: #0a757a;
+  stroke: none;
+}
+.mark .interior {
+  fill: none;
+  stroke: #c0c0bb;
+}
+.mark .sphere {
+  fill: hsl(0deg 0% 95%);
+  stroke: none;
+}
+.mark .gradicule {
+  stroke: hsl(0deg 0% 86%);
+}
