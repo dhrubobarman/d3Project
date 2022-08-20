@@ -1,0 +1,13 @@
+.grid-bg {
+  background-image: radial-gradient(#000 7%, transparent 7%);
+  background-size: 20px 20px;
+  background-repeat: repeat;
+}
+.svg-circle-hover {
+  fill: #202124;
+}
+.svg-circle-hover:hover {
+  fill: #3c4043;
+  transition: fill 0.3s;
+  user-select: none;
+}
